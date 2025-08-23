@@ -2,7 +2,7 @@
 
 
 nums = [12,345,2,6,7896]
-result = 0
+result = 1
 for x in nums:
 
     digits = len(str(abs(x)))
