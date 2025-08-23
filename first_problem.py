@@ -13,5 +13,4 @@ for x in nums:
         
 print(result)
 
-print('My details: ')
 
